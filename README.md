@@ -1,2 +1,2 @@
 # python_projects
-Quan Murphy - python_projects | Come Witness Quan's Coding Journey | 
+Quan's Coding Odyssey : A Repository about my Challenges and Achievements!
